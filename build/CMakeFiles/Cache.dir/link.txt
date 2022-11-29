@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Cache.dir/main.c.o -o Cache 
